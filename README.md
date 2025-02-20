@@ -1,3 +1,3 @@
-My name is Max.
+My name is Max
 Hello World!
-I am definitely very cool.
+I am definitely very cool
